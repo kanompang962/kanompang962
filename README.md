@@ -9,9 +9,7 @@ I am a computer science student with a passion for developing web applications.I
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [My Port](http://portfolio-gradients.vercel.app/)
 *   ✉️  You can contact me at [thianchaichamnan@gmail.com](mailto:thianchaichamnan@gmail.com)### Skills 
-<p align="left">
-ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON ICON 
-                    </p>
+
                     
                   ### Socials
                   
