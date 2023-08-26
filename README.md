@@ -14,9 +14,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
+###
 Front-end Developer
 ---------------------
-### I am a computer science student with a passion for developing web applications.I have a strong interest in web application design as well.
+ I am a computer science student with a passion for developing web applications.I have a strong interest in web application design as well.
   
 *   🌍  I'm based in Bangkok, Thailand
 *   🖥️  See my portfolio at [My Port](http://portfolio-gradients.vercel.app/)
