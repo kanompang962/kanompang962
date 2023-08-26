@@ -3,7 +3,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Front-end Developer
 -------------------
-
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
 I am a computer science student with a passion for developing web applications.I have a strong interest in web application design as well.
   
 *   🌍  I'm based in Bangkok, Thailand
